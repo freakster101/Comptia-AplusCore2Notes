@@ -92,8 +92,8 @@ Extra drivers needed for hardware not supported natively by the OS.
 Example: Installing NVIDIA GPU drivers after Windows installation.
 ````
 
-##Partitioning
-###GUID [globally unique identifier] Partition Table (GPT)
+## Partitioning
+### GUID [globally unique identifier] Partition Table (GPT)
 Modern partitioning method supporting large drives and UEFI systems.
 ```bash
 Example: Windows 11 installed on a GPT disk.
