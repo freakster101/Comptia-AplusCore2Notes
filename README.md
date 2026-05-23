@@ -41,14 +41,35 @@ Current practice environment:
 ```text
 Comptia-AplusCore2Notes/
 │
-├── Linux/
-├── Windows/
-├── Security/
-├── Troubleshooting/
-├── Networking/
-├── Git-GitHub/
+├── Domain1-OperatingSystems/
+│   ├── Objective1.1.md
+│   ├── Objective1.2.md
+│   ├── Objective1.3.md
+│   ├── Objective1.4.md
+│   ├── Objective1.5.md
+│   ├── Objective1.6.md
+│   └── Objective1.7.md
+│
+├── Domain2-Security/
+│   ├── Objective2.1.md
+│   ├── Objective2.2.md
+│   ├── Objective2.3.md
+│   ├── Objective2.4.md
+│   └── Objective2.5.md
+│
+├── Domain3-SoftwareTroubleshooting/
+│   ├── Objective3.1.md
+│   ├── Objective3.2.md
+│   └── Objective3.3.md
+│
+├── Domain4-OperationalProcedures/
+│   ├── Objective4.1.md
+│   ├── Objective4.2.md
+│   ├── Objective4.3.md
+│   ├── Objective4.4.md
+│   └── Objective4.5.md
+│
 └── README.md
-```
 
 ---
 
